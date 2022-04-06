@@ -1,0 +1,30 @@
+.calculator {
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+}
+
+.result {
+    height: 60px;
+    border: solid 1px;
+    width: 100%;
+}
+
+.result p {
+    font-size: 40px;
+    margin: 5px;
+}
+.button {
+    display: block;
+    background-color: #bbcb61;
+}
+
+button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+    background-color: #bbcb61;
+}
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNzcyIsIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGdCQUFnQjtJQUNoQixZQUFZO0lBQ1osa0JBQWtCO0FBQ3RCOztBQUVBO0lBQ0ksWUFBWTtJQUNaLGlCQUFpQjtJQUNqQixXQUFXO0FBQ2Y7O0FBRUE7SUFDSSxlQUFlO0lBQ2YsV0FBVztBQUNmO0FBQ0E7SUFDSSxjQUFjO0lBQ2QseUJBQXlCO0FBQzdCOztBQUVBO0lBQ0ksVUFBVTtJQUNWLFlBQVk7SUFDWixlQUFlO0lBQ2YseUJBQXlCO0FBQzdCIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vYXNzZXRzL2Nzcy9hcHAuY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi5jYWxjdWxhdG9yIHtcbiAgICBtYXgtd2lkdGg6IDcwMHB4O1xuICAgIG1hcmdpbjogYXV0bztcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5yZXN1bHQge1xuICAgIGhlaWdodDogNjBweDtcbiAgICBib3JkZXI6IHNvbGlkIDFweDtcbiAgICB3aWR0aDogMTAwJTtcbn1cblxuLnJlc3VsdCBwIHtcbiAgICBmb250LXNpemU6IDQwcHg7XG4gICAgbWFyZ2luOiA1cHg7XG59XG4uYnV0dG9uIHtcbiAgICBkaXNwbGF5OiBibG9jaztcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjYmJjYjYxO1xufVxuXG5idXR0b24ge1xuICAgIHdpZHRoOiAyNSU7XG4gICAgaGVpZ2h0OiA2MHB4O1xuICAgIGZvbnQtc2l6ZTogMzBweDtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjYmJjYjYxO1xufVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
